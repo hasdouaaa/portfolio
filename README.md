@@ -1,45 +1,58 @@
 <a id="readme-top"></a>
+<p align="center">
+  <img src="douae.jpg" alt="Douaa Hasnaoui" width="150" style="border-radius: 50%; margin-bottom: 20px;">
+</p>
+<h1 align="center" style="color:#A678E2;">✨ Douaa Hasnaoui ✨</h1>
+<p align="center"><em style="color:#6AB0B8;">Aspiring Data Scientist | Passionate about Machine Learning, AI & Data-Driven Solutions</em></p>
 
-<div align="center">
-  <h1>Douaa Hasnaoui</h1>
-  
-<img src="douae.jpg" alt="Douaa Hasnaoui" width="150" style="border-radius: 50%; margin-bottom: 20px;">
 
-  <p><em>Aspiring Data Scientist | Passionate about Machine Learning, AI & Data-Driven Solutions</em></p>
-</div>
-
----
-
-## About Me
-
-I am a third-year computer systems engineering student specializing in Data Science.  
-I enjoy exploring data to extract meaningful insights and building predictive models using Python, machine learning, and statistics.  
-I am eager to apply my skills to solve real-world problems and contribute to innovative projects.
+<p align="center">
+  <img src="https://img.shields.io/badge/Field-Data%20Science-%23A678E2.svg?style=flat-square&logo=data:image/png;base64,iVBORw0KGgo=" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-%236AB0B8.svg?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20Power%20BI-%2397D8C4.svg?style=flat-square" />
+</p>
 
 ---
 
-## Projects
+## 🌿 About Me
 
-### Spam and Ham Detector  
-- Developed a spam and ham message detector using Natural Language Processing (NLP) techniques.  
-- Built a dashboard to visualize the classification results and model performance.
-
-### Social Media Influence Dashboard  
-- Created a dashboard to study the influence of social media on consumer purchasing decisions.  
-- Analyzed data and visualized key trends to support marketing strategies.
-
-### Employee Salary Prediction Model  
-- Developed a predictive model to estimate employee salaries across different provinces using machine learning.  
-
-### Power BI Dashboards for Company Visits  
-- Created interactive Power BI dashboards to visualize the site visit logs for the company Autops, enabling better tracking and analysis of visitor behavior.
+🎓 I’m a third-year computer systems engineering student specializing in **Data Science**.  
+💡 I love exploring data to extract meaningful insights and building predictive models using Python, machine learning, and statistics.  
+🌱 Always curious to learn, collaborate, and contribute to real-world projects that can make a difference.
 
 ---
 
-## Contact
+## 🎨 Projects
 
-- Email: douaa.hasnaoui@example.com  
-- LinkedIn: [linkedin.com/in/douaa-hasnaoui](https://www.linkedin.com/in/douaa-hasnaoui)
+### 💌 Spam and Ham Detector
+- Built a spam and ham message classifier using **Natural Language Processing (NLP)**.
+- Designed a dashboard to visualize predictions and model performance.
+
+### 📊 Social Media Influence Dashboard
+- Explored and visualized the influence of social media on purchasing decisions.
+- Built a dashboard highlighting trends to support marketing strategies.
+
+### 💼 Employee Salary Prediction Model
+- Developed a machine learning model to predict employee salaries across provinces.
+- Focused on regression analysis and feature selection.
+
+### 📈 Power BI Dashboards for Company Visits
+- Created interactive dashboards to visualize and track website visit logs for the company Autops.
+- Helped the team monitor visitor behavior and site performance.
+
+---
+
+## 🌸 Contact
+
+- 📧 Email: douaa.hasnaoui@example.com  
+- 💼 LinkedIn: [linkedin.com/in/douaa-hasnaoui](https://www.linkedin.com/in/douaa-hasnaoui)
+
+---
+
+<p align="center">
+  <a href="#readme-top">🔝 Back to top</a>
+</p>
+
 
 ---
 
