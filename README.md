@@ -54,8 +54,4 @@
 </p>
 
 
----
 
-<p align="center">
-  <a href="#readme-top">Back to top</a>
-</p>
